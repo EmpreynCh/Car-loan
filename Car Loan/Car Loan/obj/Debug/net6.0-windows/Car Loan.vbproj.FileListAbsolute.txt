@@ -1,0 +1,17 @@
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\bin\Debug\net6.0-windows\Car Loan.exe
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\bin\Debug\net6.0-windows\Car Loan.deps.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\bin\Debug\net6.0-windows\Car Loan.runtimeconfig.json
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\bin\Debug\net6.0-windows\Car Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\bin\Debug\net6.0-windows\Car Loan.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car_Loan.Form1.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car_Loan.Resources.resources
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.vbproj.GenerateResource.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.AssemblyInfoInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.AssemblyInfo.vb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.vbproj.CoreCompileInputs.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\refint\Car Loan.dll
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.pdb
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\Car Loan.genruntimeconfig.cache
+C:\Users\Emprhaim Quiambao\OneDrive\Desktop\Quiambao Emprhaim T. (Car loan)\Car Loan\Car Loan\obj\Debug\net6.0-windows\ref\Car Loan.dll
